@@ -1197,9 +1197,7 @@ Start Stream Style
 ---------------------------------------------
 */
 .start-stream .heading-section {
-  margin-top: 60px;
-  text-align: center;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 
 .start-stream .item {
@@ -1208,11 +1206,22 @@ Start Stream Style
   border-radius: 23px;
 }
 
+.start-stream .item p {
+  text-align: center;
+}
+
+.start-stream .item .icon img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .start-stream .item h4 {
   font-size: 20px;
   margin-top: 20px;
   margin-bottom: 15px;
   font-weight: 600;
+  text-align: center;
 }
 
 .start-stream .main-button {
@@ -1368,6 +1377,7 @@ Game Details Style
   border-radius: 23px;
   padding: 30px;
   background-color: #1f2122;
+  margin-bottom: 40px;
 }
 
 .game-details .content .left-info {
