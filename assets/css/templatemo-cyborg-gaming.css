@@ -927,8 +927,19 @@ Gaming Library Style
 ---------------------------------------------
 */
 
+.gaming-library2 img{
+    max-height:340px;
+    width: auto;
+    align-content: center;
+}
 .gaming-library2 {
-  margin-top: 60px;
+  margin-top:60px;
+}
+.img-cont{
+
+}
+.game-images{
+  border-radius: 23px;
 }
 .gaming-library {
   margin-top: 60px;
