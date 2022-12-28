@@ -978,6 +978,14 @@ Game Item Style
     width: auto;
     align-content: center;
 }
+
+.img-cont{
+    padding-bottom: 40px;
+}
+.img-cont img{
+    margin-left:auto;
+    margin-right: auto;
+}
 .game-item-container {
   margin-top:60px;
   margin-bottom:60px;
